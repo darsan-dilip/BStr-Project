@@ -1,0 +1,52 @@
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 50px;
+    text-align: center;
+    color: #fff;
+}
+
+p{
+    text-align: center;
+    color: gray;
+}
+
+.abc {
+      width: 1000px;
+}
+.navbar-brand
+{
+	align-content: justify;
+	margin-left: 5%;
+}
+.navbar-nav
+{
+	margin-left: 60%;
+}
+.parent {
+   background-image: url("photo1.jpg");
+   background-size: cover;
+   height: 750px;
+   position: relative;
+}
+
+.abc
+{
+width:100%;	
+}
+.center {
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+
+.about
+{
+	margin-left :450px;
+	position: relative;
+	margin-top: -200px;
+	margin-bottom: 150px;
+}
+p
+{
+	text-align: justify;
+}
